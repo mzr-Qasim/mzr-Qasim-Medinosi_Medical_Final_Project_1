@@ -1,0 +1,544 @@
+.website-colors{
+    --primary-color:#40d0c6;
+}
+
+.navbar-nav{
+    --bs-nav-link-padding-y: 0rem;
+    color: white;
+}
+
+.news-headline-nav{
+    background-color: rgba(64,208,198,255);
+ 
+}
+
+nav.headline-nav a.news-headline-nav{
+    color:white;
+    font-size: 15px;
+    
+    
+}
+
+nav.headline-nav a.nav-link{
+    color:white;
+    font-size: 15px;
+    
+    
+}
+
+nav.headline-nav a.nav-link{
+    color:white;
+    
+    
+}
+
+nav.headline-nav a.set-border{
+    border-right: 1px solid white;
+   
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color:  rgba(64,208,198,255);
+}
+
+li.alignment a i{
+    text-align: center;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+
+nav.navbar a.logo{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+
+.fi-rr-doctor{
+    color: rgba(64,208,198,255);
+    margin-right: 15px;
+    font-size: 40px;
+}
+
+div.container-fluid a.navbar-brand span.colorchange{
+    color: rgba(64,208,198,255);
+}
+
+a.showapps{
+    text-decoration: none;
+}
+
+li.hamburger-icon{
+    list-style-type: none;
+}
+
+.material-symbols-outlined{
+    display: flex;
+    align-items: center;
+    color:rgba(137,137,137,255);
+    border: 1px solid rgba(137,137,137,255);
+
+}
+
+.form-control {
+    border-radius: 50px;
+
+}
+
+
+.navbar-nav .nav-item {
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.vertical.carousel .carousel-indicators [data-bs-target] {
+    height: 15px;
+    width: 15px;
+    opacity: 1;
+    border-radius: 50%;
+
+}
+
+.carousel-indicators button.active{
+    background-color: rgba(64,208,198,255);
+}
+
+
+
+
+div.hero-section-3{
+    position: relative;
+}
+
+
+div.hero-section-3 .carousel-caption{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translateY(-50%);
+}
+
+
+
+div.hero-section-3 .carousel-caption h5{
+    position: relative;
+    margin-left: 20px;
+}
+
+
+
+
+div.hero-section-3 .carousel-caption h5:before{
+    position: absolute;
+    content: "";
+    display: block;
+    background-color:rgba(64,208,198,255);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: -20px;
+}
+
+div.hero-section-3 .carousel-caption h5:after{
+    position: absolute;
+    content: "";
+    display: block;
+    background-color:rgba(64,208,198,255);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 220px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.carousel-caption {
+    text-align: left;
+}
+.carousel-caption h2 span {
+    color:  rgba(64,208,198,255);
+}
+
+.carousel-paragraph-1{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.carousel-anchor-button{
+    display: flex;
+    align-items: center;
+}
+.carousel-anchor-button a{ 
+    text-decoration: none;
+    color: white;
+    background-color: rgba(64,208,198,255) ;
+    border: 10px solid  rgba(64,208,198,255);
+    border-radius: 40px;
+    padding:0 15px;
+}
+
+.fi-ss-pharmacy{
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+/* Accordion Owl Carousel*/ 
+.owl-item > div {
+    cursor: pointer;
+    margin: 0 8%;
+    padding: 10% 0;
+    transition: margin 0.4s ease;
+    border-bottom: 3px solid rgba(64,208,198,255);
+}
+.owl-item.center > div {
+    cursor: auto;
+    margin: 0;
+    background-color:  rgba(64,208,198,255);
+    color: white;
+}
+
+
+.owl-item.center > div a {
+    color: white;
+}
+
+.owl-item.center > div i {
+    color: white;
+}
+
+ 
+.owl-item:not(.center) > div:hover {
+    opacity: .75;
+    
+}
+
+.text-decoration h2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+}
+.text-decoration a{
+  display: flex;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: black;
+  pointer-events: none;
+}
+.text-decoration a i{
+  color: black;
+  font-size: 20px;
+}
+
+.text-decoration i{
+  color: rgba(64,208,198,255);
+}
+
+.owl-nav{
+    display: flex;
+    justify-content: center;
+}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    margin: 0 30px;
+    font-size: 30px;
+}
+
+
+
+/* Another */ 
+.About-Medical-World-Center-Section{
+    margin-top: 100px;
+
+}
+
+.About-Medical-World-Center-Section img{
+    border-radius: 5%;
+}
+
+
+
+.About-Medical-World-Center-Section .card-content-1 .line-1{
+    margin-top: 20px;
+    height: 4px;
+    background-color: rgba(64,208,198,255);
+}
+.About-Medical-World-Center-Section .card-content-1 .line-2{
+    margin-top: 10px;
+    height: 4px;
+    background-color:  rgba(64,208,198,255);
+}
+.About-Medical-World-Center-Section .card-content-2 h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    font-size: 20px;
+    padding: 15px 5px;
+    border: 5px solid white;
+    background-color: rgba(64,208,198,255);
+    border-radius: 25px;
+    color: white;
+    margin-left: -50px;
+}
+.About-Medical-World-Center-Section .card-content-2 img.image-top-margin{
+    margin-top: 25px;
+}
+
+.About-Medical-World-Center-Section .card-content-3{
+    margin-top: 25px;
+    padding-left: 80px;
+}
+.About-Medical-World-Center-Section .card-content-3 h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+
+
+.About-Medical-World-Center-Section .card-content-3 h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.About-Medical-World-Center-Section .card-content-3 h2 span{
+    color: rgba(64,208,198,255);
+
+}
+
+
+
+.About-Medical-World-Center-Section .card-content-3 p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+
+
+.About-Medical-World-Center-Section .card-content-3 .fi-br-check{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    margin-right: 10px;
+    color: rgba(64,208,198,255);
+
+
+}
+
+
+
+
+.About-Medical-World-Center-Section-anchor-button{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+.About-Medical-World-Center-Section-anchor-button a{ 
+    text-decoration: none;
+    color: white;
+    background-color: rgba(64,208,198,255) ;
+    border: 10px solid  rgba(64,208,198,255);
+    border-radius: 40px;
+    padding:0 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Counter App */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.Counter-animation{
+    margin-top: 100px;
+}
+
+
+.counterapp-row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.counterapp-col{
+    flex-basis: 22%;
+    text-align: center;
+    color: #555;
+}
+.counterapp-col .blue-color{
+    background-color: rgba(7,30,64,255);
+    color: white;
+}
+.counterapp-col .blue-color h2.counter{
+    color: white;
+}
+
+.counterapp-col .blue-color span{
+    color: white;
+}
+
+
+.counter-box{
+    width: 100%;
+    height: 100%;
+    background: rgba(244,248,249,255);
+    padding: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 20px -4px #66676c;
+}
+.counterapp-col h2,span.counterapp-span{
+    display: inline-block;
+    margin: 15px 0;
+    font-size: 50px;
+    color: #000;
+}
+.counter-box .fa{
+    font-size: 40px;
+    color: rgba(64,208,198,255);
+    display: block;
+}
+
+.counter-box .fi{
+    font-size: 40px;
+    color: rgba(64,208,198,255);
+    display: block;
+}
+
+
+
+
+/* Cards-section */
+
+.card {
+    border-radius: 0;
+    border: none;
+    padding-top: 25px;
+}
+
+
+.card-img, .card-img-top {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+
+.Medical-services-cards-section{
+    background-color: rgba(244,248,249,255);
+    margin-top: 50px;
+}
+
+
+
+.Medical-services-cards-section .Card-content .card-main-icon i{ 
+    margin-right: 50px;
+    font-size: 40px;
+    color: rgba(64,208,198,255);
+}
+
+.Medical-services-cards-section .services-card-heading h5{
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+}
+.Medical-services-cards-section .services-card-heading h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+}
+.Medical-services-cards-section .services-card-heading h2 span{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: rgba(64,208,198,255);
+}
+
+
+
+
+.Medical-services-cards-section .Card-content h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.Medical-services-cards-section .Card-content p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.Medical-services-cards-section .Card-content a.card-button {
+    display: flex;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+}
+
+.Medical-services-cards-section .Card-content a.card-button i.card-button-icon {
+    color: black;
+    font-size: 20px;
+}
+
+
+
