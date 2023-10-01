@@ -71,7 +71,7 @@ jQuery(document).ready(function($) {
 
     $('.counter').counterUp({
         delay: 10,
-        time: 15000
+        time: 8000
     });
 
 
