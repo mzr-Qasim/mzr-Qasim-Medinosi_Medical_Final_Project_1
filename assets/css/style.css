@@ -545,3 +545,119 @@ div.hero-section-1 .carousel-caption h5:after{
 .Second-card-row{
     padding-bottom: 50px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*MEDIA QUERIES*/
+@media screen and (max-width: 576px) {
+ 
+    .About-Medical-World-Center-Section .card-content-2 h3{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 25px;
+        font-size: 20px;
+        padding: 10px 10px;
+        border: 5px solid white;
+        background-color: rgba(64,208,198,255);
+        border-radius: 25px;
+        color: white;
+        margin-left: 0;
+    }
+    
+
+
+
+
+
+}
+@media screen and (min-width: 576px) {
+
+}
