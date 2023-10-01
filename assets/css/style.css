@@ -469,6 +469,7 @@ div.hero-section-3 .carousel-caption h5:after{
 .card {
     border-radius: 0;
     border: none;
+    margin-top: 50px;
     padding-top: 25px;
 }
 
