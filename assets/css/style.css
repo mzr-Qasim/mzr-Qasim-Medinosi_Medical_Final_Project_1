@@ -653,5 +653,8 @@ div.hero-section-1 .carousel-caption h5:after{
 
 
 @media screen and (min-width: 576px) {
-
+    .About-Medical-World-Center-Section .card-content-2 h3{
+        padding: 10px 10px;
+        margin-left: 0;
+    }
 }
