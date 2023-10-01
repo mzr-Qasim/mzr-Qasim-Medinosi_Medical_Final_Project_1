@@ -113,12 +113,12 @@ li.hamburger-icon{
 
 
 
-div.hero-section-3{
+div.hero-section-1{
     position: relative;
 }
 
 
-div.hero-section-3 .carousel-caption{
+div.hero-section-1 .carousel-caption{
     position: absolute;
     top: 50%;
     left: 15%;
@@ -127,7 +127,7 @@ div.hero-section-3 .carousel-caption{
 
 
 
-div.hero-section-3 .carousel-caption h5{
+div.hero-section-1 .carousel-caption h5{
     position: relative;
     margin-left: 20px;
 }
@@ -135,7 +135,7 @@ div.hero-section-3 .carousel-caption h5{
 
 
 
-div.hero-section-3 .carousel-caption h5:before{
+div.hero-section-1 .carousel-caption h5:before{
     position: absolute;
     content: "";
     display: block;
@@ -148,7 +148,7 @@ div.hero-section-3 .carousel-caption h5:before{
     margin-left: -20px;
 }
 
-div.hero-section-3 .carousel-caption h5:after{
+div.hero-section-1 .carousel-caption h5:after{
     position: absolute;
     content: "";
     display: block;
@@ -179,13 +179,12 @@ div.hero-section-3 .carousel-caption h5:after{
 
 
 
-
-
-
-
-
 .carousel-caption {
     text-align: left;
+}
+.carousel-caption h2 {
+    font-size: 50px;
+    font-weight: 600;
 }
 .carousel-caption h2 span {
     color:  rgba(64,208,198,255);
@@ -207,6 +206,8 @@ div.hero-section-3 .carousel-caption h5:after{
     border: 10px solid  rgba(64,208,198,255);
     border-radius: 40px;
     padding:0 15px;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 .fi-ss-pharmacy{
@@ -486,7 +487,7 @@ div.hero-section-3 .carousel-caption h5:after{
 
 
 .Medical-services-cards-section .Card-content .card-main-icon i{ 
-    margin-right: 50px;
+    margin-right: 25px;
     font-size: 40px;
     color: rgba(64,208,198,255);
 }
@@ -541,3 +542,6 @@ div.hero-section-3 .carousel-caption h5:after{
 
 
 
+.Second-card-row{
+    padding-bottom: 50px;
+}
