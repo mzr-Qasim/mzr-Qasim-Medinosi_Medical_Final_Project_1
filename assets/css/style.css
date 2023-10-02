@@ -98,6 +98,61 @@ li.hamburger-icon{
 }
 
 
+
+
+
+
+  
+/* Set a style for the buttons*/ 
+
+/* Set a hover effect for the button*/ 
+
+/* Set extra style for the cancel button*/ 
+
+
+.search-box {
+    position: relative;
+}
+  
+.search-box i{
+    position: absolute;
+    right: 15px;
+    top: 9px;
+    color: rgba(64,208,198,255);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .navbar-nav .nav-item {
     margin-right: 10px; /* Adjust the margin as needed */
 }

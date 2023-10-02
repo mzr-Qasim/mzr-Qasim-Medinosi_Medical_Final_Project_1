@@ -103,6 +103,39 @@ li.hamburger-icon{
 }
 
 
+
+.search-box {
+    position: relative;
+}
+  
+.search-box i{
+    position: absolute;
+    right: 15px;
+    top: 8px;
+    color: rgba(64,208,198,255);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .navbar-nav .nav-item {
     margin-right: 10px; /* Adjust the margin as needed */
 }
