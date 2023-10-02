@@ -46,7 +46,7 @@ jQuery(document).ready(function($) {
             items:1,
             center:true,
             nav:true,
-            loop:false,
+            loop:true,
         },
         600:{
             items:2,
