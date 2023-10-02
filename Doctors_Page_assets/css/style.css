@@ -1,1 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
+
+
+.website-colors{
+    --primary-color:#40d0c6;
+}
+
+.navbar-nav{
+    --bs-nav-link-padding-y: 0rem;
+    color: white;
+}
+
+
+
+
+.news-headline-nav{
+    background-color: rgba(64,208,198,255);
+ 
+}
+
+nav.headline-nav a.news-headline-nav{
+    color:white;
+    font-size: 15px;
+    
+    
+}
+
+nav.headline-nav a.nav-link{
+    color:white;
+    font-size: 15px;
+    
+    
+}
+
+nav.headline-nav a.nav-link{
+    color:white;
+    
+    
+}
+
+nav.headline-nav a.set-border{
+    border-right: 1px solid white;
+   
+}
+
+
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color:  rgba(64,208,198,255);
+}
+
+li.alignment a i{
+    text-align: center;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+
+nav.navbar a.logo{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+
+.fi-rr-doctor{
+    color: rgba(64,208,198,255);
+    margin-right: 15px;
+    font-size: 40px;
+}
+
+div.container-fluid a.navbar-brand span.colorchange{
+    color: rgba(64,208,198,255);
+}
+
+a.showapps{
+    text-decoration: none;
+}
+
+li.hamburger-icon{
+    list-style-type: none;
+}
+
+.material-symbols-outlined{
+    display: flex;
+    align-items: center;
+    color:rgba(137,137,137,255);
+    border: 1px solid rgba(137,137,137,255);
+
+}
+
+.form-control {
+    border-radius: 50px;
+
+}
+
+
+.navbar-nav .nav-item {
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+
+
+/* Main Hero Section */
+
+
+.main-hero-section .Main-hero-section-image img{
+    position: relative;
+}
+
+.main-hero-section .Main-hero-section-content{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 25.2%;
+    transform: translate(-50%,-50%);
+}
+.main-hero-section .Main-hero-section-content h2{
+    font-size: 60px;
+}
+.main-hero-section .Main-hero-section-content h5{
+    font-size: 20px;
+    font-weight: 400;
+}
+.main-hero-section .Main-hero-section-content h5 span{
+    color: rgba(64,208,198,255);
+}

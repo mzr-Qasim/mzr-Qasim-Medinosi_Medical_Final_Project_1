@@ -663,11 +663,11 @@ img {
 }
 
 .video-custom .play-btn {
- border: 5px solid rgba(6,118,134,255);
+ border: 20px solid rgba(7,30,64,255);
 
 }
 .video-custom .pause-btn {
- border: 5px solid white;
+ border: 20px solid rgba(7,30,64,255);
 
 
 }
@@ -676,14 +676,11 @@ img {
 .video-custom .play-btn, .video-custom .pause-btn {
  position: absolute;
  right: 0px;
- left: 0;
- top: 0;
  bottom: 0px;
  margin: auto;
- width: 80px;
- height: 80px;
+ width: 100px;
+ height: 100px;
  background-color: rgba(64,208,198,255);
- border-radius: 100%;
  z-index: 3;
  cursor: pointer;
  transition: 0.5s all;
@@ -693,6 +690,7 @@ img {
 
 .video-custom .pause-btn {
  display: none;
+
 }
 
 .video-custom .play-btn i {
@@ -911,11 +909,55 @@ html:not(.playvideo) .sound-ctrl {
 
 
 /*MEDIA QUERIES*/
+
+
+
+
+
+@media screen and (max-width: 350px) {
+ 
+    .About-Medical-World-Center-Section .card-content-2 h3{
+        padding: 10px 5px;
+        margin-left: 0;
+    }
+    
+
+
+
+
+
+}
+@media screen and (max-width: 366px) {
+ 
+    nav.headline-nav a.news-headline-nav{
+        display: none;
+    }
+
+
+
+
+
+}
 @media screen and (max-width: 576px) {
  
     .About-Medical-World-Center-Section .card-content-2 h3{
         padding: 10px 5px;
         margin-left: 0;
+    }
+    
+
+
+
+
+
+}
+@media screen and (max-width: 992px) {
+ 
+    .material-symbols-outlined{
+        border: none;
+    }
+    nav.headline-nav a.set-border{
+        border: none;
     }
     
 
