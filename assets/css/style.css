@@ -664,7 +664,6 @@ div.hero-section-1 .carousel-caption h5:after{
 
 .Video-section-inner-text .second-half-section .Section-image img{
     margin-top: 30px;
-    margin-left: 270px;
 
 
 }
@@ -689,7 +688,6 @@ div.hero-section-1 .carousel-caption h5:after{
 
 .Video-section-inner-text .second-half-section .content{
     margin-top: 15px;
-    margin-left: 270px;
 
 }
 .Video-section-inner-text .second-half-section .content p{
@@ -1066,6 +1064,7 @@ html:not(.playvideo) .sound-ctrl {
     nav.headline-nav a.set-border{
         border: none;
     }
+  
     
 
 
